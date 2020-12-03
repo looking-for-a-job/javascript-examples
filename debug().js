@@ -1,2 +1,0 @@
-//jsc
-debug("hello world")
